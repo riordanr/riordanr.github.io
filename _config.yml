@@ -1,7 +1,7 @@
 # Site settings
-title: Your awesome title
+title: Ryan's Website
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "This is a sample Github.io test site."
 baseurl: ""
 url: "http://yourdomain.com"
 
