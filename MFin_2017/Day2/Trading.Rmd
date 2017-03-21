@@ -1,0 +1,17 @@
+---
+title: "Master of Finance 841: Financial Technology and Innovation"
+subtitle: "Lecture #3"
+author: "Ryan Riordan <br> Twitter: @algoriordan <br> Website: www.ryanriordan.ca <br> Smith School of Business at Queen's University"
+date: "2017/03/25 <br><br> Slides available [here](https://dl.dropboxusercontent.com/s/lnqdcxstamijiak/Lecture1.html?dl=0) <br>"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+# First Slide
