@@ -1,0 +1,405 @@
+---
+title: "Master of Finance 841: Financial Technology and Innovation"
+subtitle: "Lecture #2"
+author: "Ryan Riordan <br> Twitter: @algoriordan <br> Website: www.ryanriordan.ca <br> Smith School of Business at Queen's University"
+date: "2017/03/08 <br><br> Slides available [here](https://dl.dropboxusercontent.com/s/lnqdcxstamijiak/Lecture1.html?dl=0) <br>"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+#War is ninety percent information!
+
+.footnote[
+
+[*] Napoleon Bonaparte
+                         
+]
+
+---
+
+## Information in Markets
+
+> "A competitive equilibrium in an asset market entails absence of arbitrage opportunities. Since information acquisition is costly, a competitive equilibrium cannot always remain in an unperturbed state if there exist incentives to expend resources to obtain information." (Grossman and Stiglitz (1980))
+
+<br>
+<br>
+<br>
+
+--
+
+## What this really means is markets are never going to be completely efficient and... that information is important in markets. 
+
+---
+
+## Types of Information in Financial Markets
+
+.pull-left[
+1. News 
+ + Newswires
+ + Articles
+1. Analyst reports
+ + Buy
+ + Sell
+ + Hold
+1. Macroeconomic data 
+ + NFP
+ + GDP
+ + Interest Rates
+1. Firm filings 
+ + 10-K
+ + 10-Q
+ + Earnings
+1. Social Media
+ + Twitter
+ + Facebook
+ + Blogs
+ + Forums
+ + $\dots$
+
+]
+
+.pull-right[
+```{r  echo=FALSE,  fig.align="center", out.width = "50px" }
+knitr::include_graphics("../figures/reuters.png")
+```
+
+<br>
+
+```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
+knitr::include_graphics("../figures/rbc.jpeg")
+```
+
+<br>
+
+```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
+knitr::include_graphics("../figures/nfp.png")
+```
+  
+<br>
+    
+```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
+knitr::include_graphics("../figures/appl10K.png")
+```
+
+<br>
+    
+```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
+knitr::include_graphics("../figures/twitter.png")
+```
+
+]
+
+---
+
+## When is news most likely?
+
+--
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/newsearnings.png")
+```
+
+
+---
+
+## The impact of information on prices
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/mackinlayeventstudy.png")
+```
+
+---
+
+## Calculating Returns - Refresher
+
+Generally I assume that you know how to calculate returns, abnormal returns, and cumulative abnormal returns. But, here is a quick refresher:
+
+* Logarithmic returns
+
+$$r_t = ln(p_t/p_{t-1})$$
+--
+
+* Abnormal returns (the return a security earns over and above the *expected return*) are calculated as follows.  
+
+$$ar_t = r_t - \alpha - \beta * r_{mt}$$
+--
+
+Usually the expected return comes from a CAPM regression. The beta is the covariance between the return of a security and the market security. Alpha is the *drift* term, or the constant in a CAPM regression. 
+
+--
+
+* Cumulative abnormal returns are simply the sum of the abnormal returns:
+
+$$car = \sum_{t=1}^T ar_t $$
+---
+
+## Financial News
+
+> "One of the more fascinating sections of the WSJ is on the inside of the back page under the standing headline “Abreast of the Market.” There you can read each day what the market did yesterday, whether it went up, down or sideways as measured by indexes like the Dow Jones Industrial Average ... . In that column, you can also read selected post-mortems from brokerage houses, stock analysts and other professional track watchers explaining why the market yesterday did whatever it did, sometimes with predictive nuggets about what it will do today or tomorrow. This is where the fascination lies. For no matter what the market did—up, down or sideways—somebody will have a ready explanation." <sup>1, 2</sup>
+  
+.footnote[
+[1] Vermont Royster (Wall Street Journal, “Thinking Things Over Abreast of the Market,” January 15, 1986.
+                         
+[2] Tetlock, Paul C. "Giving content to investor sentiment: The role of media in the stock market." The Journal of Finance 62.3 (2007): 1139-1168.
+]
+
+---
+
+## Is a news strategy profitble?
+
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/newsbasedtradingstrategyreturns.png")
+```
+
+--
+
+#How do you assess profitability?
+
+---
+
+## Markets React to Negative and Positive News
+
+> How is this related to Financial Technology?
+
+The real question is can we use financially relevant information to make better decisions, before others react to the same information? There is a competition for speed in markets. The first investor that arrives at the market get most of the profit, the 2nd, or 3rd, get less or none of the profit. 
+
+A good investor will try to achieve one or both of the following:
+
+1. Become faster than everyone else
+
+1. Become cheaper than everyone else 
+
+--
+
+#Markets are a winner take all competition.
+
+---
+
+class: center, middle
+
+#How do we achieve cheaper, and / or faster?
+## Discussion
+
+---
+
+## Information can travel **much** faster now!
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/dieselgatenews.png")
+```
+
+--
+
+\#Dieselgate
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/dieselgatetweets.png")
+```
+
+---
+
+## Market Reaction to \#Dieselgate
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/dieselgate.png")
+```
+
+---
+
+## Social Media - Flu Outbreak
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/heatmap1.png")
+```
+
+---
+
+## Social Media - Flu Outbreak
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/heatmap2.png")
+```
+
+---
+
+## Social Media - Flu Outbreak
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/heatmap3.png")
+```
+
+---
+
+## Social Media in Markets
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/musknetflix.png")
+```
+
+---
+
+## Netflix Response - Volume
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/netflixtweetvolume.png")
+```
+
+---
+
+## Netflix Response - Returns
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/netflixtweetreturns.png")
+```
+
+---
+
+## Positive, Neutral, and Negative Information
+
+In order to determine the impact of information on markets, we need to figure out if the information is negative or positive. How do we determine this?
+
+--
+
+# Sentiment Analysis
+
+---
+
+### What is the "sentiment" of this Tweet?
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/elontweet.png")
+```
+
+---
+
+## Activity
+
+[Twitter Exercise](../Week1/InClass_TwitterTextualAnalysis.pdf)
+
+---
+
+## Sentiment 
+
+###Simplest	task:
+* Is the	attitude	of	this	text	positive	or	negative?
+
+### More	complex:
+* Rank the	attitude	of	this	text	from	1	to	5
+
+### Advanced:
+* Detect	the	target,	source,	or	complex	attitude	types
+
+---
+
+## Sentiment Analysis Tasks"
+
+1. Pre-processing - remove extraneous characters (Emoticons, end of line characters, ...)
+1. [Tokenization](http://sentiment.christopherpotts.net/tokenizing.html#overview)
+1. [Feature Extraction](http://delivery.acm.org/10.1145/1080000/1075574/p212-lewis.pdf?ip=209.82.56.8&id=1075574&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=910048295&CFTOKEN=21903667&__acm__=1489178573_40581b7289d1d024dd9f69579d89bfaa)
+
+### Classification	using	different	classifiers
+
+1. [Naïve	Bayes](http://sentiment.christopherpotts.net/classifiers.html#nb)
+1. [Maximum Entropy](http://sentiment.christopherpotts.net/classifiers.html#maxent)
+1. [Support Vector Machines](http://sentiment.christopherpotts.net/classifiers.html#others)
+1. Simple negative/positive word count
+
+---
+
+## How to Algorithmically Determine Sentiment (Das and Chen)
+
+```{r  echo=FALSE,  fig.align="center", out.width = "650px"}
+knitr::include_graphics("../figures/daschensentiment.png")
+```
+
+---
+
+## Tetlock's "Pessimism Factor"
+
+In his 2008 paper titled ["More than words"](https://www0.gsb.columbia.edu/faculty/ptetlock/papers/Tetlock_et_al_JF_08_More_Than_Words.pdf) Paul Tetlock finds that markets react to negative tone, or pessimism more than to positive tone. 
+
+--
+
+# Why do you think that this is the case?
+
+---
+
+## Generating the Pessimism Factor
+
+Tetlock uses a simple word count algorithm as the starting point:
+
+```{r  echo=FALSE,  fig.align="center", out.width = "450px"}
+knitr::include_graphics("../figures/tetlocknegscore.png")
+```
+
+--
+
+> "Where $\mu_{Neg}$ is the mean of Neg and $\sigma_{Neg}$ is the standard deviation of Neg. The standardization may be necessary if Neg is nonstationary, which could happen if there are regime changes in the distribution of words in news stories—for example, the DJNS or WSJ changes its coverage or style. The variable neg is the stationary measure of media content that we employ in our regression analyses. (Tetlock 2008)"
+
+---
+
+class: center, middle
+
+# Does pessimism predict anything uself?
+
+---
+
+## Does pessimism predict earnings surprise?
+
+```{r  echo=FALSE,  fig.align="center", out.width = "450px"}
+knitr::include_graphics("../figures/pessimismpredictsue.png")
+```
+
+--
+
+## Yes!
+
+---
+
+## News Trading Returns
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/carnewsaroundearnings.png")
+```
+
+---
+
+## Standardized Unexpected Earnings (SUE)
+
+```{r  echo=FALSE,  fig.align="center", out.width = "250px"}
+knitr::include_graphics("../figures/sue.png")
+```
+
+```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
+knitr::include_graphics("../figures/sueexplanation.png")
+```
+
+---
+
+# Enough details let's get coding!
+
+[Twitter Exercise](../Week1/InClass_SentmentAnalsis_2.pdf)
+
+---
+
+class: center, middle
+
+# Next Class - Limit order books and auctions Session #1 and 
+# The speed of light: Evolution of trading and exchanges in Session #2
+
+---
+
+## Organizational Details
+
+1. Install the Rotman Interactive Trader
+1. Have a look at the case briefs that I post
+1. Practice using the RIT interface
+
