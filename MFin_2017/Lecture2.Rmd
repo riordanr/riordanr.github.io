@@ -67,31 +67,31 @@ class: center, middle
 
 .pull-right[
 ```{r  echo=FALSE,  fig.align="center", out.width = "50px" }
-knitr::include_graphics("../figures/reuters.png")
+knitr::include_graphics("figures/reuters.png")
 ```
 
 <br>
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
-knitr::include_graphics("../figures/rbc.jpeg")
+knitr::include_graphics("figures/rbc.jpeg")
 ```
 
 <br>
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
-knitr::include_graphics("../figures/nfp.png")
+knitr::include_graphics("figures/nfp.png")
 ```
   
 <br>
     
 ```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
-knitr::include_graphics("../figures/appl10K.png")
+knitr::include_graphics("figures/appl10K.png")
 ```
 
 <br>
     
 ```{r  echo=FALSE,  fig.align="center", out.width = "50px"}
-knitr::include_graphics("../figures/twitter.png")
+knitr::include_graphics("figures/twitter.png")
 ```
 
 ]
@@ -103,7 +103,7 @@ knitr::include_graphics("../figures/twitter.png")
 --
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/newsearnings.png")
+knitr::include_graphics("figures/newsearnings.png")
 ```
 
 
@@ -112,7 +112,7 @@ knitr::include_graphics("../figures/newsearnings.png")
 ## The impact of information on prices
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/mackinlayeventstudy.png")
+knitr::include_graphics("figures/mackinlayeventstudy.png")
 ```
 
 ---
@@ -156,7 +156,7 @@ $$car = \sum_{t=1}^T ar_t $$
 
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/newsbasedtradingstrategyreturns.png")
+knitr::include_graphics("figures/newsbasedtradingstrategyreturns.png")
 ```
 
 --
@@ -193,7 +193,7 @@ class: center, middle
 ## Information can travel **much** faster now!
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/dieselgatenews.png")
+knitr::include_graphics("figures/dieselgatenews.png")
 ```
 
 --
@@ -201,7 +201,7 @@ knitr::include_graphics("../figures/dieselgatenews.png")
 \#Dieselgate
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/dieselgatetweets.png")
+knitr::include_graphics("figures/dieselgatetweets.png")
 ```
 
 ---
@@ -209,7 +209,7 @@ knitr::include_graphics("../figures/dieselgatetweets.png")
 ## Market Reaction to \#Dieselgate
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/dieselgate.png")
+knitr::include_graphics("figures/dieselgate.png")
 ```
 
 ---
@@ -217,7 +217,7 @@ knitr::include_graphics("../figures/dieselgate.png")
 ## Social Media - Flu Outbreak
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/heatmap1.png")
+knitr::include_graphics("figures/heatmap1.png")
 ```
 
 ---
@@ -225,7 +225,7 @@ knitr::include_graphics("../figures/heatmap1.png")
 ## Social Media - Flu Outbreak
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/heatmap2.png")
+knitr::include_graphics("figures/heatmap2.png")
 ```
 
 ---
@@ -233,7 +233,7 @@ knitr::include_graphics("../figures/heatmap2.png")
 ## Social Media - Flu Outbreak
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/heatmap3.png")
+knitr::include_graphics("figures/heatmap3.png")
 ```
 
 ---
@@ -241,7 +241,7 @@ knitr::include_graphics("../figures/heatmap3.png")
 ## Social Media in Markets
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/musknetflix.png")
+knitr::include_graphics("figures/musknetflix.png")
 ```
 
 ---
@@ -249,7 +249,7 @@ knitr::include_graphics("../figures/musknetflix.png")
 ## Netflix Response - Volume
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/netflixtweetvolume.png")
+knitr::include_graphics("figures/netflixtweetvolume.png")
 ```
 
 ---
@@ -257,7 +257,7 @@ knitr::include_graphics("../figures/netflixtweetvolume.png")
 ## Netflix Response - Returns
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/netflixtweetreturns.png")
+knitr::include_graphics("figures/netflixtweetreturns.png")
 ```
 
 ---
@@ -275,14 +275,14 @@ In order to determine the impact of information on markets, we need to figure ou
 ### What is the "sentiment" of this Tweet?
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/elontweet.png")
+knitr::include_graphics("figures/elontweet.png")
 ```
 
 ---
 
 ## Activity
 
-[Twitter Exercise](../Week1/InClass_TwitterTextualAnalysis.pdf)
+[Twitter Exercise](Week1/InClass_TwitterTextualAnalysis.pdf)
 
 ---
 
@@ -317,7 +317,7 @@ knitr::include_graphics("../figures/elontweet.png")
 ## How to Algorithmically Determine Sentiment (Das and Chen)
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "650px"}
-knitr::include_graphics("../figures/daschensentiment.png")
+knitr::include_graphics("figures/daschensentiment.png")
 ```
 
 ---
@@ -337,7 +337,7 @@ In his 2008 paper titled ["More than words"](https://www0.gsb.columbia.edu/facul
 Tetlock uses a simple word count algorithm as the starting point:
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "450px"}
-knitr::include_graphics("../figures/tetlocknegscore.png")
+knitr::include_graphics("figures/tetlocknegscore.png")
 ```
 
 --
@@ -355,7 +355,7 @@ class: center, middle
 ## Does pessimism predict earnings surprise?
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "450px"}
-knitr::include_graphics("../figures/pessimismpredictsue.png")
+knitr::include_graphics("figures/pessimismpredictsue.png")
 ```
 
 --
@@ -367,7 +367,7 @@ knitr::include_graphics("../figures/pessimismpredictsue.png")
 ## News Trading Returns
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/carnewsaroundearnings.png")
+knitr::include_graphics("figures/carnewsaroundearnings.png")
 ```
 
 ---
@@ -375,18 +375,18 @@ knitr::include_graphics("../figures/carnewsaroundearnings.png")
 ## Standardized Unexpected Earnings (SUE)
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "250px"}
-knitr::include_graphics("../figures/sue.png")
+knitr::include_graphics("figures/sue.png")
 ```
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/sueexplanation.png")
+knitr::include_graphics("figures/sueexplanation.png")
 ```
 
 ---
 
 # Enough details let's get coding!
 
-[Twitter Exercise](../Week1/InClass_SentmentAnalsis_2.pdf)
+[Twitter Exercise](Week1/InClass_SentmentAnalsis_2.pdf)
 
 ---
 
