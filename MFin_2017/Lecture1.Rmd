@@ -22,7 +22,7 @@ knitr::include_graphics("figures/buysell.png")
 
 class: center, middle
 
-[![FinTech iPad](../figures/ipad.png)]
+[![FinTech iPad](figures/ipad.png)]
 
 # This is the first FinTech course (beta test) in a graduate program that we know of in Canada! 
 
@@ -82,14 +82,14 @@ class: center, middle
 6. What does the future hold?
 
 ```{r  echo=FALSE, fig.pos="bottom",  fig.align="right", out.width = "350px"}
-knitr::include_graphics("../figures/computers.png")
+knitr::include_graphics("figures/computers.png")
 ```
 
 ---
 
 class: center, middle
 
-# [Course Outline](../Syllabus/MFin841_FintechOutline_Final.pdf)
+# [Course Outline](Syllabus/MFin841_FintechOutline_Final.pdf)
 
 ---
 
@@ -151,7 +151,7 @@ For my research, visit my webpage: [www.ryanriordan.ca](http://www.ryanriordan.c
 ## Information and Funds Flow
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/healypalepu.png")
+knitr::include_graphics("figures/healypalepu.png")
 ```
 
 ---
@@ -177,7 +177,7 @@ knitr::include_graphics("../figures/healypalepu.png")
 ## The Financial System
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "750px"}
-knitr::include_graphics("../figures/financialsystem.png")
+knitr::include_graphics("figures/financialsystem.png")
 ```
 
 ---
@@ -321,9 +321,9 @@ The stock market is generally organized into trading phases:
 .center[
 
 ```{r fig.width=4, fig.align="center", out.width = "200px",echo=FALSE,out.extra='style="float:center"'}
-knitr::include_graphics("../figures/orderbook.png")
+knitr::include_graphics("figures/orderbook.png")
 ```{r fig.width=8, fig.align="center", out.width = "200px",echo=FALSE, out.extra='style="float:center"'}
-knitr::include_graphics("../figures/orderbook_2.png")
+knitr::include_graphics("figures/orderbook_2.png")
 
 ```
 
@@ -334,7 +334,7 @@ knitr::include_graphics("../figures/orderbook_2.png")
 ## Amazon Limit Order Book 
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/amzn_orderbook.png")
+knitr::include_graphics("figures/amzn_orderbook.png")
 ```
 
 
@@ -343,7 +343,7 @@ knitr::include_graphics("../figures/amzn_orderbook.png")
 ## Amazon Limit Order Book over the Day
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/amzn_obevolution.png")
+knitr::include_graphics("figures/amzn_obevolution.png")
 ```
 
 ---
@@ -385,7 +385,7 @@ Institutions use algorithms for:
 ## A Taxonomy of Automated Investors
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "800px"}
-knitr::include_graphics("../figures/investorsandtechnology.png")
+knitr::include_graphics("figures/investorsandtechnology.png")
 ```
 
 ---
@@ -451,7 +451,7 @@ We will cover some of the following:
 ## Payments in Canada Today
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "800px"}
-knitr::include_graphics("../figures/chequesdebitabm.png")
+knitr::include_graphics("figures/chequesdebitabm.png")
 ```
 
 .footnote[
@@ -463,7 +463,7 @@ knitr::include_graphics("../figures/chequesdebitabm.png")
 ## Payments in Canada Today Continued...
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "500px"}
-knitr::include_graphics("../figures/creditother.png")
+knitr::include_graphics("figures/creditother.png")
 ```
 
 ---
@@ -525,7 +525,7 @@ The blockchain is a distributed ledger system that manages Bitcoin transactions.
 ## Crowdfunding and Peer-to-Peer Lending
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "750px"}
-knitr::include_graphics("../figures/crowdfunding.png")
+knitr::include_graphics("figures/crowdfunding.png")
 ```
 
 .footnote[
@@ -548,7 +548,7 @@ knitr::include_graphics("../figures/crowdfunding.png")
 ## Investors want value for money. 
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "650px"}
-knitr::include_graphics("../figures/roboadvice.jpg")
+knitr::include_graphics("figures/roboadvice.jpg")
 ```
 
 .footnote[
@@ -570,7 +570,7 @@ knitr::include_graphics("../figures/roboadvice.jpg")
 Passive investments may work well when markets are *increasing*. There is a saying that "a rising tide floats all boats." Robo-advisers have yet to deal with truly negative or **crashing markets**. How will they, and importantly, their clients deal with **losses**?
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "200px"}
-knitr::include_graphics("../figures/blacktuesday.jpg")
+knitr::include_graphics("figures/blacktuesday.jpg")
 ```
 
 .footnote[
@@ -620,7 +620,7 @@ Definition of artificial intelligence:
 2. the capability of a machine to imitate intelligent human behavior
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "600px"}
-knitr::include_graphics("../figures/aixkcd.png")
+knitr::include_graphics("figures/aixkcd.png")
 ```
 
 .footnote[
@@ -633,7 +633,7 @@ knitr::include_graphics("../figures/aixkcd.png")
 ## Is AI used in the Financial Industry?
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "600px"}
-knitr::include_graphics("../figures/financeai.png")
+knitr::include_graphics("figures/financeai.png")
 ```
 
 .footnote[
@@ -645,7 +645,7 @@ knitr::include_graphics("../figures/financeai.png")
 ## How is this useful in Finance?
 
 ```{r  echo=FALSE,  fig.align="center", out.width = "600px"}
-knitr::include_graphics("../figures/aiadviser.jpg")
+knitr::include_graphics("figures/aiadviser.jpg")
 ```
 
 .footnote[
