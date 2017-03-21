@@ -6,7 +6,6 @@ date: "2017/03/08 <br><br> Slides available [here](https://dl.dropboxusercontent
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    self_contained: true
     nature:
       highlightStyle: github
       highlightLines: true
@@ -16,7 +15,7 @@ output:
 ## Buy or Sell?
 
 ```{r  echo=FALSE, fig.align="center", out.width = "550px"}
-knitr::include_graphics("../figures/buysell.png")
+knitr::include_graphics("figures/buysell.png")
 ```
 
 ---
