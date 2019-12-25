@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Neumann | Ryan Riordan</title>
+    <link>https://riordanr.github.io/authors/d.-neumann/</link>
+      <atom:link href="https://riordanr.github.io/authors/d.-neumann/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Neumann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <title>D. Neumann</title>
+      <link>https://riordanr.github.io/authors/d.-neumann/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative continuous service engineering: A case study in a financial service environment</title>
+      <link>https://riordanr.github.io/publication/2008-01-01_collaborative_contin/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://riordanr.github.io/publication/2008-01-01_collaborative_contin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Hagstromer | Ryan Riordan</title>
+    <link>https://riordanr.github.io/authors/b.-hagstromer/</link>
+      <atom:link href="https://riordanr.github.io/authors/b.-hagstromer/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Hagstromer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <title>B. Hagstromer</title>
+      <link>https://riordanr.github.io/authors/b.-hagstromer/</link>
+    </image>
+    
+    <item>
+      <title>Trading Fast and Slow: Colocation and Liquidity</title>
+      <link>https://riordanr.github.io/publication/2015-01-01_trading_fast_and_slo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://riordanr.github.io/publication/2015-01-01_trading_fast_and_slo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
