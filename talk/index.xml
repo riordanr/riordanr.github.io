@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Ryan Riordan</title>
-    <link>https://riordanr.github.io/talk/</link>
-      <atom:link href="https://riordanr.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/talk/</link>
+      <atom:link href="https://ryanriordan.ca/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Sat, 05 Jan 2019 10:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://riordanr.github.io/talk/</link>
+      <link>https://ryanriordan.ca/talk/</link>
     </image>
     
     <item>
       <title>Carbon Risk</title>
-      <link>https://riordanr.github.io/talk/carbon-risk/</link>
+      <link>https://ryanriordan.ca/talk/carbon-risk/</link>
       <pubDate>Sat, 05 Jan 2019 10:15:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/talk/carbon-risk/</guid>
+      <guid>https://ryanriordan.ca/talk/carbon-risk/</guid>
       <description></description>
     </item>
     

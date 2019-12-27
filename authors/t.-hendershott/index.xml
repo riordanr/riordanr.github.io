@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Hendershott | Ryan Riordan</title>
-    <link>https://riordanr.github.io/authors/t.-hendershott/</link>
-      <atom:link href="https://riordanr.github.io/authors/t.-hendershott/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/authors/t.-hendershott/</link>
+      <atom:link href="https://ryanriordan.ca/authors/t.-hendershott/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Hendershott</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>T. Hendershott</title>
-      <link>https://riordanr.github.io/authors/t.-hendershott/</link>
+      <link>https://ryanriordan.ca/authors/t.-hendershott/</link>
     </image>
     
     <item>
       <title>Price discovery without trading: Evidence from limit orders</title>
-      <link>https://riordanr.github.io/publication/2019-01-01_limitorderpd/</link>
+      <link>https://ryanriordan.ca/publication/2019-01-01_limitorderpd/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/publication/2019-01-01_limitorderpd/</guid>
+      <guid>https://ryanriordan.ca/publication/2019-01-01_limitorderpd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High frequency trading and the 2008 short-sale ban</title>
-      <link>https://riordanr.github.io/publication/2017-01-01_high_frequency_tradi/</link>
+      <link>https://ryanriordan.ca/publication/2017-01-01_high_frequency_tradi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/publication/2017-01-01_high_frequency_tradi/</guid>
+      <guid>https://ryanriordan.ca/publication/2017-01-01_high_frequency_tradi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-frequency trading and price discovery</title>
-      <link>https://riordanr.github.io/publication/2014-01-01_high-frequency_tradi/</link>
+      <link>https://ryanriordan.ca/publication/2014-01-01_high-frequency_tradi/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/publication/2014-01-01_high-frequency_tradi/</guid>
+      <guid>https://ryanriordan.ca/publication/2014-01-01_high-frequency_tradi/</guid>
       <description></description>
     </item>
     

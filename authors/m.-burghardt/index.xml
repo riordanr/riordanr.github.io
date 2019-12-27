@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Burghardt | Ryan Riordan</title>
-    <link>https://riordanr.github.io/authors/m.-burghardt/</link>
-      <atom:link href="https://riordanr.github.io/authors/m.-burghardt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/authors/m.-burghardt/</link>
+      <atom:link href="https://ryanriordan.ca/authors/m.-burghardt/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Burghardt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>M. Burghardt</title>
-      <link>https://riordanr.github.io/authors/m.-burghardt/</link>
+      <link>https://ryanriordan.ca/authors/m.-burghardt/</link>
     </image>
     
     <item>
       <title>Know the flow: Sentiment extraction from retail order flow data</title>
-      <link>https://riordanr.github.io/publication/2009-01-01_know_the_flow_sentim/</link>
+      <link>https://ryanriordan.ca/publication/2009-01-01_know_the_flow_sentim/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/publication/2009-01-01_know_the_flow_sentim/</guid>
+      <guid>https://ryanriordan.ca/publication/2009-01-01_know_the_flow_sentim/</guid>
       <description></description>
     </item>
     

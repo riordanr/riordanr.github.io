@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Ryan Riordan</title>
-    <link>https://riordanr.github.io/post/</link>
-      <atom:link href="https://riordanr.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/post/</link>
+      <atom:link href="https://ryanriordan.ca/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://riordanr.github.io/post/</link>
+      <link>https://ryanriordan.ca/post/</link>
     </image>
     
   </channel>

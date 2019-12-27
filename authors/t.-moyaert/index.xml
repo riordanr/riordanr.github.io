@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Moyaert | Ryan Riordan</title>
-    <link>https://riordanr.github.io/authors/t.-moyaert/</link>
-      <atom:link href="https://riordanr.github.io/authors/t.-moyaert/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/authors/t.-moyaert/</link>
+      <atom:link href="https://ryanriordan.ca/authors/t.-moyaert/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Moyaert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>T. Moyaert</title>
-      <link>https://riordanr.github.io/authors/t.-moyaert/</link>
+      <link>https://ryanriordan.ca/authors/t.-moyaert/</link>
     </image>
     
     <item>
       <title>High frequency trading and extreme price movements</title>
-      <link>https://riordanr.github.io/publication/2018-01-01_high_frequency_tradi/</link>
+      <link>https://ryanriordan.ca/publication/2018-01-01_high_frequency_tradi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/publication/2018-01-01_high_frequency_tradi/</guid>
+      <guid>https://ryanriordan.ca/publication/2018-01-01_high_frequency_tradi/</guid>
       <description></description>
     </item>
     

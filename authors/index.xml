@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ryan Riordan</title>
-    <link>https://riordanr.github.io/authors/</link>
-      <atom:link href="https://riordanr.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryanriordan.ca/authors/</link>
+      <atom:link href="https://ryanriordan.ca/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Riordan 2019</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://riordanr.github.io/img/icon-192.png</url>
+      <url>https://ryanriordan.ca/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://riordanr.github.io/authors/</link>
+      <link>https://ryanriordan.ca/authors/</link>
     </image>
     
     <item>
       <title>J. Brogaard</title>
-      <link>https://riordanr.github.io/authors/j.-brogaard/</link>
+      <link>https://ryanriordan.ca/authors/j.-brogaard/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/j.-brogaard/</guid>
+      <guid>https://ryanriordan.ca/authors/j.-brogaard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Riordan</title>
-      <link>https://riordanr.github.io/authors/r.-riordan/</link>
+      <link>https://ryanriordan.ca/authors/r.-riordan/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/r.-riordan/</guid>
+      <guid>https://ryanriordan.ca/authors/r.-riordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Hendershott</title>
-      <link>https://riordanr.github.io/authors/t.-hendershott/</link>
+      <link>https://ryanriordan.ca/authors/t.-hendershott/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/t.-hendershott/</guid>
+      <guid>https://ryanriordan.ca/authors/t.-hendershott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Rehse</title>
-      <link>https://riordanr.github.io/authors/d.-rehse/</link>
+      <link>https://ryanriordan.ca/authors/d.-rehse/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/d.-rehse/</guid>
+      <guid>https://ryanriordan.ca/authors/d.-rehse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Zietz</title>
-      <link>https://riordanr.github.io/authors/j.-zietz/</link>
+      <link>https://ryanriordan.ca/authors/j.-zietz/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/j.-zietz/</guid>
+      <guid>https://ryanriordan.ca/authors/j.-zietz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Rottke</title>
-      <link>https://riordanr.github.io/authors/n.-rottke/</link>
+      <link>https://ryanriordan.ca/authors/n.-rottke/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/n.-rottke/</guid>
+      <guid>https://ryanriordan.ca/authors/n.-rottke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Carrion</title>
-      <link>https://riordanr.github.io/authors/a.-carrion/</link>
+      <link>https://ryanriordan.ca/authors/a.-carrion/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/a.-carrion/</guid>
+      <guid>https://ryanriordan.ca/authors/a.-carrion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Shkilko</title>
-      <link>https://riordanr.github.io/authors/a.-shkilko/</link>
+      <link>https://ryanriordan.ca/authors/a.-shkilko/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/a.-shkilko/</guid>
+      <guid>https://ryanriordan.ca/authors/a.-shkilko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Sokolov</title>
-      <link>https://riordanr.github.io/authors/k.-sokolov/</link>
+      <link>https://ryanriordan.ca/authors/k.-sokolov/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/k.-sokolov/</guid>
+      <guid>https://ryanriordan.ca/authors/k.-sokolov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Moyaert</title>
-      <link>https://riordanr.github.io/authors/t.-moyaert/</link>
+      <link>https://ryanriordan.ca/authors/t.-moyaert/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/t.-moyaert/</guid>
+      <guid>https://ryanriordan.ca/authors/t.-moyaert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Hagstromer</title>
-      <link>https://riordanr.github.io/authors/b.-hagstromer/</link>
+      <link>https://ryanriordan.ca/authors/b.-hagstromer/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/b.-hagstromer/</guid>
+      <guid>https://ryanriordan.ca/authors/b.-hagstromer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Norden</title>
-      <link>https://riordanr.github.io/authors/l.-norden/</link>
+      <link>https://ryanriordan.ca/authors/l.-norden/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/l.-norden/</guid>
+      <guid>https://ryanriordan.ca/authors/l.-norden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Adam</title>
-      <link>https://riordanr.github.io/authors/m.-adam/</link>
+      <link>https://ryanriordan.ca/authors/m.-adam/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/m.-adam/</guid>
+      <guid>https://ryanriordan.ca/authors/m.-adam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Teubner</title>
-      <link>https://riordanr.github.io/authors/t.-teubner/</link>
+      <link>https://ryanriordan.ca/authors/t.-teubner/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/t.-teubner/</guid>
+      <guid>https://ryanriordan.ca/authors/t.-teubner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Weinhardt</title>
-      <link>https://riordanr.github.io/authors/c.-weinhardt/</link>
+      <link>https://ryanriordan.ca/authors/c.-weinhardt/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/c.-weinhardt/</guid>
+      <guid>https://ryanriordan.ca/authors/c.-weinhardt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. {Sarah Zhang}</title>
-      <link>https://riordanr.github.io/authors/s.-sarah-zhang/</link>
+      <link>https://ryanriordan.ca/authors/s.-sarah-zhang/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/s.-sarah-zhang/</guid>
+      <guid>https://ryanriordan.ca/authors/s.-sarah-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Storkenmaier</title>
-      <link>https://riordanr.github.io/authors/a.-storkenmaier/</link>
+      <link>https://ryanriordan.ca/authors/a.-storkenmaier/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/a.-storkenmaier/</guid>
+      <guid>https://ryanriordan.ca/authors/a.-storkenmaier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.S. Zhang</title>
-      <link>https://riordanr.github.io/authors/s.s.-zhang/</link>
+      <link>https://ryanriordan.ca/authors/s.s.-zhang/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/s.s.-zhang/</guid>
+      <guid>https://ryanriordan.ca/authors/s.s.-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Mazarakis</title>
-      <link>https://riordanr.github.io/authors/a.-mazarakis/</link>
+      <link>https://ryanriordan.ca/authors/a.-mazarakis/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/a.-mazarakis/</guid>
+      <guid>https://ryanriordan.ca/authors/a.-mazarakis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Teschner</title>
-      <link>https://riordanr.github.io/authors/f.-teschner/</link>
+      <link>https://ryanriordan.ca/authors/f.-teschner/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/f.-teschner/</guid>
+      <guid>https://ryanriordan.ca/authors/f.-teschner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Kundisch</title>
-      <link>https://riordanr.github.io/authors/d.-kundisch/</link>
+      <link>https://ryanriordan.ca/authors/d.-kundisch/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/d.-kundisch/</guid>
+      <guid>https://ryanriordan.ca/authors/d.-kundisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Rabhi</title>
-      <link>https://riordanr.github.io/authors/f.-rabhi/</link>
+      <link>https://ryanriordan.ca/authors/f.-rabhi/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/f.-rabhi/</guid>
+      <guid>https://ryanriordan.ca/authors/f.-rabhi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Wagener</title>
-      <link>https://riordanr.github.io/authors/m.-wagener/</link>
+      <link>https://ryanriordan.ca/authors/m.-wagener/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/m.-wagener/</guid>
+      <guid>https://ryanriordan.ca/authors/m.-wagener/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Herrmann</title>
-      <link>https://riordanr.github.io/authors/p.-herrmann/</link>
+      <link>https://ryanriordan.ca/authors/p.-herrmann/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/p.-herrmann/</guid>
+      <guid>https://ryanriordan.ca/authors/p.-herrmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Burghardt</title>
-      <link>https://riordanr.github.io/authors/m.-burghardt/</link>
+      <link>https://ryanriordan.ca/authors/m.-burghardt/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/m.-burghardt/</guid>
+      <guid>https://ryanriordan.ca/authors/m.-burghardt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Blau</title>
-      <link>https://riordanr.github.io/authors/b.-blau/</link>
+      <link>https://ryanriordan.ca/authors/b.-blau/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/b.-blau/</guid>
+      <guid>https://ryanriordan.ca/authors/b.-blau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Neumann</title>
-      <link>https://riordanr.github.io/authors/d.-neumann/</link>
+      <link>https://ryanriordan.ca/authors/d.-neumann/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/d.-neumann/</guid>
+      <guid>https://ryanriordan.ca/authors/d.-neumann/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://riordanr.github.io/authors/admin/</link>
+      <link>https://ryanriordan.ca/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://riordanr.github.io/authors/admin/</guid>
+      <guid>https://ryanriordan.ca/authors/admin/</guid>
       <description>&lt;p&gt;Ryan Riordan studies the use of technology in financial markets, and more recently the role climate risks play in asset prices. At the Smith School of Business, he is an Associate Professor and Distinguished Professor of Finance, as well as the Director of Research of the Institute for Sustainable Finance.&lt;/p&gt;
 
 &lt;p&gt;Ryan was the 2019 recipient of the Bank of Canada Governor’s Award. His work has been published in the Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, Journal of Financial Markets, Journal of Banking and Finance, and the Journal of the Association of Information Systems. His work has won awards such as the Michael J. Brennan Award for the best paper published in the Review of Financial Studies, and the Philip Brown Prize for the best paper published using Sirca data.&lt;/p&gt;
